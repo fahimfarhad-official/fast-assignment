@@ -108,13 +108,119 @@ header {
     color: #444343;
 }
 
-.list-style{
+.list-style {
     width: 315px;
     height: 26px;
     left: 903px;
     top: 1400px;
     font-weight: 400;
     font-size: 16px;
-    line-height: 26px;    
-    color: #444343;  
+    line-height: 26px;
+    color: #444343;
+}
+
+/* My Plan style */
+.section-title {
+    left: 711px;
+    top: 1792.3px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-left: 760px;
+    
+
+}
+
+.pos {
+    margin: 0 100px;
+}
+
+.plan-container {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 279px;
+    margin-right: 180px;
+    margin-bottom: 170px;
+}
+
+.plan-name-web {
+    left: 279px;
+    top: 2008.96px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+}
+
+.plan-discriptoion-web {
+    left: 326px;
+    top: 2059.96px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+
+}
+
+.plan-name-js {
+    left: 648px;
+    top: 2003px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+}
+
+.plan-discriptoion-js {
+    left: 635px;
+    top: 2054px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+
+.plan-name-smoking {
+    left: 902px;
+    top: 2003px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+}
+
+.plan-discriptoion-smok {
+    left: 929px;
+    top: 2054px;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+
+.plan-name-ec {
+    left: 1226px;
+    top: 2003px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+
+
+}
+
+.plan-discriptoion-ec {
+    left: 1206px;
+    top: 2054px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
 }
