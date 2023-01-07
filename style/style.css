@@ -3,18 +3,21 @@
     font-family: 'Open Sans', sans-serif;
     margin: 0;
 }
+
 /* header margin and beckground img */
 header {
     display: flex;
-    margin: 0 auto;
+
 }
 
 .header {
     background-image: url(../images/banner/banner2.png);
     width: 1600px;
     height: 809px;
-    margin: 0 auto;
+    left: 1600px;
+    bottom: 130px;
 }
+
 /* header text, paragraph and button  style */
 .header-text {
     position: absolute;
@@ -55,4 +58,68 @@ header {
     top: 578px;
     background: #F15B22;
     border-radius: 5px;
+}
+
+/* My failure.. blog */
+.blog-section {
+    max-width: 1072px;
+    max-height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+
+section {
+    display: flex;
+    background-image: url(../images/person.png);
+    width: 569px;
+    height: 723.3px;
+    margin: 130px 206px 87px;
+
+}
+
+.blog-text {
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 1178px;
+}
+
+.blog-title {
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 24px;
+    color: #151414;
+}
+
+.blog-paragraph {
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+
+.list-style{
+    width: 315px;
+    height: 26px;
+    left: 903px;
+    top: 1400px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;    
+    color: #444343;
+     
 }
